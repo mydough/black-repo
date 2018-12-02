@@ -1,6 +1,6 @@
 @startuml
 
-title 时序图
+title 时序图示例
 
 == 鉴权阶段 ==
 
@@ -24,3 +24,6 @@ Bob -> Alice: 状态返回
 Alice -> Alice: 给自己发消息
 
 @enduml
+
+#uml demo
+
